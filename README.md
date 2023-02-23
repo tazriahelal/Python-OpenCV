@@ -1,17 +1,5 @@
 # Python-OpenCV
 
-# Hi, I'm Tazria! 👋
-
-## 🚀 About Me
-I'm a backend developer & Data Science enthusiast. 
-
-
-## 🛠 Skills
-Java-Spring Boot
-Python3-Flask,
-OpenCV
-SciPy, TensorFlow, Keras
-
 # 🚀 Topic-
 Basic concepts on OpenCV. 
  - Image Load
