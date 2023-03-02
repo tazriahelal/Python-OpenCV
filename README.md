@@ -9,6 +9,16 @@ Basic concepts on OpenCV.
  - Image Rotate
  - Bitwise operation
  - Sobel Edge detection
+ - Channels Splitting
+ - Gray scale Histograms 
+ - Color Histograms 
+ - Histogram Equalization 
+ - Image Blurring
+ - Image Threshold
+ - Image Gradient Detection
+ - Canny Edge Detection 
+ - Image Bitwise Logical Operations
+ - Bilateral Filter
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tazria-helal-zarin-0986161b9/)
