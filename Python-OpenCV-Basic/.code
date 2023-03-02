@@ -1,1 +1,23 @@
+Python OpenCV Basics
 
+Topics-
+
+Image Masking
+Image Color 
+Channels Merging and Splitting
+Gray scale Histograms 
+Color Histograms 
+Histogram Equalization 
+Image Blurring
+Image Threshold
+Image Gradient Detection
+Canny Edge Detection 
+Image Contours
+Image Transformation 
+Rotation
+Resizing
+Flipping
+Croppinng 
+Operations
+Translation
+Image Bitwise Logical Operations
