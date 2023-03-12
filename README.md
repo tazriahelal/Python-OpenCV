@@ -21,6 +21,12 @@ Basic concepts on OpenCV.
  - Bilateral Filter
  - Morphological Analysis
  - Morphological Operations
+ - Image Transformation
+             - Translation
+             - Rotating
+             - Resizing
+             - Flipping
+             - Cropping
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tazria-helal-zarin-0986161b9/)
